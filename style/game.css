@@ -1,0 +1,28 @@
+canvas{
+    
+    background-color: green;
+    text-align: center;
+    border-radius: 2%;
+    
+}
+
+body{margin-left: 60vh;
+    background-color: yellowgreen;
+}
+
+input {
+    border: 4px silver solid;
+    display: inline-block;
+    padding: 12px 15px;
+    color: black;
+    background-color: chocolate;
+    font-weight: bold;
+}
+
+input:hover {
+    background-color: orange;
+    color: yellow;
+    font-size: 17px;
+   border: yellow;
+    border-radius:  5%; 
+}

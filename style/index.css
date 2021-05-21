@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    
+    padding: 10%;
+}
+
+
+
+h1{
+    font-size: 5rem;
+}
+
+body{
+    background-color:yellowgreen ;
+}
+
+input {
+    border: 4px silver solid;
+    display: inline-block;
+    padding: 12px 15px;
+    color: rgb(8, 7, 7);
+    background-color: chocolate;
+    font-weight: bold;
+}
+
+input:hover {
+    background-color: orange;
+    color: yellow;
+    font-size: 17px;
+   border: yellow;
+    border-radius:  3%; 
+}
